@@ -3,9 +3,8 @@
 /**
  * main - prints a number in loercase
  * followed by a new line, expect q and e
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	char low;
@@ -16,6 +15,5 @@ int main(void)
 			putchar(low);
 	}
 	putchar('\n');
-
 	return (0);
 }
