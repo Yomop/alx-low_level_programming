@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - prints a number
+ * Return: 0
+ */
 
 int main(void)
 {
