@@ -3,6 +3,7 @@
 /**
  * string_toupper - change all lowercase to upper
  * @n: poiter
+ *
  * Return: n
  */
 char *string_toupper(char *n)
