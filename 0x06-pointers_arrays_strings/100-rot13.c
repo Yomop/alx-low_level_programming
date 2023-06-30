@@ -5,6 +5,7 @@
  * @s: poiter to string params
  * Return: *s
  */
+
 char *rot13(char *s)
 {
 	int i;
