@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 #include <math.h>
 
@@ -6,7 +5,6 @@
  * main - print the largest prime number
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	long int n;
